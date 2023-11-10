@@ -22,5 +22,5 @@ std = [
     "codec/std",
     "scale-info/std",
     "serde",
-    "primitive-types/std"
+    "primitive-types/std",
 ]
